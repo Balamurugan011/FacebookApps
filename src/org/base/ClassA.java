@@ -19,6 +19,18 @@ public class ClassA {
 	private void test6() {
 		System.out.println("Test6");
 	}
+	private void test7() {
+		System.out.println("Test7");
+	}
+	private void test8() {
+		System.out.println("Test8");
+	}
+	private void test9() {
+		System.out.println("Test9");
+	}
+	private void test10() {
+		System.out.println("Test10");
+	}
 	
 
 
