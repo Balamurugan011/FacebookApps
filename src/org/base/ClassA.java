@@ -33,7 +33,10 @@ public class ClassA {
 	}
 	private void test11() {
 		System.out.println("Test11");
+	}private void test17() {
+		System.out.println("Test17");
 	}
+	
 	
 	
 
