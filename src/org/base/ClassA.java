@@ -31,6 +31,10 @@ public class ClassA {
 	private void test10() {
 		System.out.println("Test10");
 	}
+	private void test11() {
+		System.out.println("Test11");
+	}
+	
 	
 
 
