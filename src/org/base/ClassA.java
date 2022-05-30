@@ -34,7 +34,15 @@ public class ClassA {
 	private void test11() {
 		System.out.println("Test11");
 	}
-	
+	private void test12() {
+		System.out.println("Test12");
+		
+	}private void test13() {
+		System.out.println("Test13");
+		
+	}private void test14() {
+		System.out.println("Test14");
+	}
 	
 
 
